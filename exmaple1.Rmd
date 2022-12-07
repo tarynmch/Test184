@@ -1,0 +1,10 @@
+---
+title: "Github Example 1"
+output: html_notebook
+---
+
+# Create some plot
+```{r}
+plot(cars, xlab = "Speed in mph")
+```
+
