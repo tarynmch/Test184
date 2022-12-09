@@ -3,6 +3,13 @@ title: "Github Example 1"
 output: html_notebook
 ---
 
+## Front Matter 
+```{r}
+library(tidyverse)
+```
+
+
+
 # Create some plot
 ```{r}
 plot(cars, xlab = "Speed in mph")
